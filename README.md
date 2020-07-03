@@ -15,7 +15,7 @@ Attribute Information:
     4. petal width in cm
     5. class:
 
-      -- Iris Setosa
+      -->> Iris Setosa
       
       -- Iris Versicolour
       
