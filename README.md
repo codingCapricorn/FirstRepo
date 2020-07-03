@@ -17,8 +17,8 @@ Attribute Information:
 
       -->> Iris Setosa
       
-      -- Iris Versicolour
+      -->> Iris Versicolour
       
-      -- Iris Virginica
+      -->> Iris Virginica
 
 
