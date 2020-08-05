@@ -20,6 +20,6 @@ Attribute Information:
     5. class:
              -->> Iris Setosa
              -->> Iris Versicolour
-        -->> Iris Virginica
+          -->> Iris Virginica
 
 
